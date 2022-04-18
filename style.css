@@ -2,6 +2,8 @@
     font-family: StockCar;
     src: url(font/carfont.woff2);
 }
+
+
 @font-face {
     font-family: Party;
     src: url(font/party.woff2);
