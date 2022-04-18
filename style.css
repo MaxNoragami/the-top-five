@@ -278,3 +278,48 @@ display: flex;
 display: flex;
 
 }
+
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    
+}
+th{
+    border: 1px solid;
+    border-collapse: collapse;
+    font-family: 'Party';
+    background-color: #262626;
+    color: #fff;
+    border-color: #fff;
+}
+td{
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color: #fff;
+}
+
+.tt{
+    background-color: orange;
+    text-align: center;
+}
+
+.ta{
+    background-color: lightgreen;
+    text-align: center;
+}
+.tf{
+    background-color: lightcoral;
+    text-align: center;
+}
+caption{
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-style: oblique;
+    color: #fff;
+}
+
+.tabel-center{
+    display: flex;
+    justify-content: center;
+}
